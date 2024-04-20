@@ -1,0 +1,5 @@
+SAT is a decision problem that asks:
+    for a given Boolean formula or expression made up of N variables
+    and the logical operators AND, OR and NOT. Is there a combination of
+    true-false variable assignments for which the entire formula evaluates
+    to true?
